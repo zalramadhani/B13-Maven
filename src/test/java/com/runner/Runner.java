@@ -26,4 +26,7 @@ example of maven goal
 
 
 		clean -Dtest=Runner test
+		
+		
+		TEST
 */
